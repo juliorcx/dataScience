@@ -1,5 +1,12 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Specialized Data Science
+description: Visualization for data analysis and help desk
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+baseurl: "/dataScience/"
+url: "https://juliorcx.github.io"
+
+username: Julio Ramirez Ceballos
+user_description: CAD designer and data analyst
+email: julio.rc.design@gmail.com
+github_username: juliorcx
